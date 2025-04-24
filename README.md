@@ -68,19 +68,19 @@ This project is beginner-friendly and demonstrates the use of:
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
-<img src="project\Screenshots\Screenshot (46).png" alt="Screenshot1" width="1080" height="720">
+<img src="project\Screenshots\Screenshot (46).png" alt="Screenshot1" width="1080" height="1080">
 
-<img src="project\Screenshots\Screenshot (47).png" alt="Screenshot2" width="1080" height="720">
+<img src="project\Screenshots\Screenshot (47).png" alt="Screenshot2" width="1080" height="1080">
 
-<img src="project\Screenshots\Screenshot (48).png" alt="Screenshot3" width="1080" height="720">
+<img src="project\Screenshots\Screenshot (48).png" alt="Screenshot3" width="1080" height="1080">
 
-<img src="project\Screenshots\Screenshot (49).png" alt="Screenshot4" width="1080" height="720">
+<img src="project\Screenshots\Screenshot (49).png" alt="Screenshot4" width="1080" height="1080">
 
-<img src="project\Screenshots\Screenshot (50).png" alt="Screenshot5" width="1080" height="720">
+<img src="project\Screenshots\Screenshot (50).png" alt="Screenshot5" width="1080" height="1080">
 
-<img src="project\Screenshots\Screenshot (51).png" alt="Screenshot6" width="1080" height="720">
+<img src="project\Screenshots\Screenshot (51).png" alt="Screenshot6" width="1080" height="1080">
 
-<img src="project\Screenshots\Screenshot (52).png" alt="Screenshot7" width="1080" height="720">
+<img src="project\Screenshots\Screenshot (52).png" alt="Screenshot7" width="1080" height="1080">
 
 </div>
 
