@@ -68,7 +68,7 @@ This project is beginner-friendly and demonstrates the use of:
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
-<img src="project\Screenshots\Screenshot (46).png" alt="Screenshot1" width="720" height="1080">
+<img src="project\Screenshots\Screenshot (46).png" alt="Screenshot1" width="1080" height="720">
 
 <img src="project\Screenshots\Screenshot (47).png" alt="Screenshot2" width="400" height="500">
 
