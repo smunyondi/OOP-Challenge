@@ -96,9 +96,6 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 #### Grace Awiti
 - **Email**: [graceawiti2@gmail.com](mailto:graceawiti2@gmail.com)
 
-#### Simeon Munyondi
-- **Email**: [simeonmunyondi608@gmail.com](mailto:simeonmunyondi608@gmail.com)
-
 #### Felister Njoki 
 - **Email**: [njokingugi9462@gmail.com](mailto:njokingugi9462@gmail.com)
 
