@@ -44,25 +44,10 @@ This project is beginner-friendly and demonstrates the use of:
 ---
 
 ## How to Use
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/emma-obelenge/OOP-Challenge_Group-433.git
-
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd OOP-Challenge_Group-433
-
-   ```
-
-3. Run the program:
+1. Run the program:
    python main.py
 
-4. Follow the on-screen instructions to interact with your pet.
+2. Follow the on-screen instructions to interact with your pet.
 
 ## Screenshots
 
