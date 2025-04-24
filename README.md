@@ -88,7 +88,7 @@ This project is beginner-friendly and demonstrates the use of:
 
 This project was developed as part of the **PLP Academy Group Assignment**. Below are the contributors:
 
-### Group 433 Members
+### Group 196 Members
 
 #### Kgaugelo Pheeha
 - **Email**: [kgaugelopheeha94@gmail.com](mailto:kgaugelopheeha94@gmail.com)
