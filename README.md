@@ -93,11 +93,11 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 #### Kgaugelo Pheeha
 - **Email**: [kgaugelopheeha94@gmail.com](mailto:kgaugelopheeha94@gmail.com)
 
-#### Simeon Munyondi
+#### Grace Awiti
 - **Email**: [simeonmunyondi608@gmail.com](mailto:simeonmunyondi608@gmail.com)
 
 #### Simeon Munyondi
-- **Email**: [simeonmunyondi608@gmail.com](mailto:simeonmunyondi608@gmail.com)
+- **Email**: [graceawiti2@gmail.com](mailto:graceawiti2@gmail.com)
 
 #### Simeon Munyondi
 - **Email**: [simeonmunyondi608@gmail.com](mailto:simeonmunyondi608@gmail.com)
