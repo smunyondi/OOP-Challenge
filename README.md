@@ -1,4 +1,4 @@
-# Pet Simulator 🐾
+# Pet Simulator Project Assignment For PLP Peer to Peer Group 196🐾
 
 Welcome to the **Pet Simulator**, a fun and interactive program that allows users to create and interact with their virtual pet. You can feed, play, teach tricks, and check the status of your pet in this simple text-based simulator.
 
@@ -10,7 +10,6 @@ Welcome to the **Pet Simulator**, a fun and interactive program that allows user
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Screenshots](#screenshots)
-- [Video Demonstration](#video-demonstration)
 - [Technologies Used](#technologies-used)
 - [Authors and Contributors](#authors-and-contributors)
 - [Future Improvements](#future-improvements)
@@ -69,21 +68,24 @@ This project is beginner-friendly and demonstrates the use of:
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screenshots%2Fmain_menu.png" alt="Main Menu" width="400" height="500">
+<img src="Screenshots\Screenshot (46).png" alt="Screenshot1" width="400" height="500">
 
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screenshots%2Ffeeding_pet.png" alt="Feeding Your Pet" width="400" height="500">
+<img src="Screenshots\Screenshot (47).png" alt="Screenshot2" width="400" height="500">
 
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screenshots%2Fteaching_tricks.png" alt="Teaching Tricks" width="400" height="500">
+<img src="Screenshots\Screenshot (48).png" alt="Screenshot3" width="400" height="500">
+
+<img src="Screenshots\Screenshot (49).png" alt="Screenshot4" width="400" height="500">
+
+<img src="Screenshots\Screenshot (50).png" alt="Screenshot5" width="400" height="500">
+
+<img src="Screenshots\Screenshot (51).png" alt="Screenshot6" width="400" height="500">
+
+<img src="Screenshots\Screenshot (52).png" alt="Screenshot7" width="400" height="500">
 
 </div>
 
-## Video Demonstration
 
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screen_record%2FPLP_Group-433_Pet_Simulator_Display.gif" alt="Feeding Your Pet" width="400" height="500">
-
-Click [here](https://youtube.com/shorts/vAQlKm_Grg4?si=q_EIvip79IOPGA2R) to watch the complete video.
-
-
+---
 
 ## Technologies Used
 
@@ -103,35 +105,22 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 
 ### Group 433 Members
 
-#### Emmanuel Obelenge
+#### Kgaugelo Pheeha
+- **Email**: [kgaugelopheeha94@gmail.com](mailto:kgaugelopheeha94@gmail.com)
 
-- **Role**: Lead Developer
-- **Email**: [obeleemmanuel@gmail.com](mailto:obeleemmanuel@gmail.com)
-- **GitHub**: [@emma-obelenge](https://github.com/emma-obelenge)
+#### Simeon Munyondi
+- **Email**: [simeonmunyondi608@gmail.com](mailto:simeonmunyondi608@gmail.com)
 
-#### Tabitha Tsisika Lisanza
+#### Simeon Munyondi
+- **Email**: [simeonmunyondi608@gmail.com](mailto:simeonmunyondi608@gmail.com)
 
-- **Role**: Code Testing
-- **Email**: [lisanzatabitha@gmail.com](mailto:lisanzatabitha@gmail.com)
-- **GitHub**: [@lisanzatabby](https://github.com/lisanzaTabby)
+#### Simeon Munyondi
+- **Email**: [simeonmunyondi608@gmail.com](mailto:simeonmunyondi608@gmail.com)
 
-#### Berlyn Mumbua Mutinda
+#### Simeon Munyondi
+- **Email**: [simeonmunyondi608@gmail.com](mailto:simeonmunyondi608@gmail.com)
 
-- **Role**:  Implementing init methods with rules
-- **Email**: [berlynmumbua@gmail.com](mailto:berlynmumbua@gmail.com)
-- **GitHub**: [@mumbua-mutinda](https://github.com/mumbua-mutinda)
-
-#### RODGERS MARAGIA
-
-- **Role**: Code testing, Review correct code workability and Error Correction/debugging.
-- **Email**: [r28081999m@gmail.com](mailto:r28081999m@gmail.com)
-- **GitHub**: [@Rockjunior](https://github.com/Rockjunior)
-
-#### Evan Omanga
-
-- **Role**: ReadMe.md file documentation
-- **Email**: [evanwayodi19@gmail.com](mailto:evanwayodi19@gmail.com)
-- **GitHub**: [Evan19-CoDe](https://github.com/Evan19-CoDe)
+---
 
 ## Future Improvements
 
